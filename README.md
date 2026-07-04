@@ -7,8 +7,6 @@
 
 ---
 
----
-
 # 👩‍💻 About Me
 
 - 🎓 CSE Student passionate about Software Development
@@ -55,31 +53,21 @@
 
 Machine Learning + Flask web application that detects whether a news article is real or fake using NLP and classification techniques.
 
----
-
 ## 🎓 [Online Learning Management System](https://github.com/kritiikkaaa/Online-Learning-Management-System)
 
 Responsive LMS frontend built using HTML and Tailwind CSS featuring Login, Dashboard and Course pages.
-
----
 
 ## 💬 [YouTube Comment Sentiment Analyzer](https://github.com/kritiikkaaa/youtube-comment-sentiment)
 
 Flask + NLP project that classifies YouTube comments into Positive, Negative and Neutral sentiments.
 
----
-
 ## 🏦 [Banking Management System](https://github.com/kritiikkaaa/Banking-Management-System)
 
 Python-based banking application supporting account creation, deposits, withdrawals and balance management.
 
----
-
 ## 🎮 [Number Guessing Game](https://github.com/kritiikkaaa/Number-Guessing-Game)
 
 Simple Python game demonstrating logical thinking and user interaction.
-
----
 
 ## 💻 [LeetCode Solutions](https://github.com/kritiikkaaa/Leetcode)
 
