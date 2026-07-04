@@ -23,18 +23,25 @@
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-### 🎓 Online Learning Management System
-A responsive Learning Management System (LMS) built using HTML & Tailwind CSS featuring Login, Dashboard and Course pages.
-### 📰 Fake News Detection: 
-Machine Learning project that classifies news articles as Real or Fake using NLP techniques.
-### 💬 YouTube Comment Sentiment Analyzer
-Flask + NLP application that analyzes YouTube comments and predicts Positive, Negative or Neutral sentiment.
-### 🏦 Banking Management System
-Python-based banking application supporting account creation, deposits, withdrawals and balance management.
-### 🎮 Number Guessing Game
-Python console game demonstrating logic building and user interaction.
+### 🎓 [Online Learning Management System](https://github.com/kritiikkaaa/Online-Learning-Management-System): Responsive LMS built using HTML & Tailwind CSS featuring Login, Dashboard and Course pages.
+
+---
+
+### 📰 [Fake News Detection](https://github.com/kritiikkaaa/FakeNewsApp): Machine Learning project that classifies news articles as Real or Fake using NLP techniques.
+
+---
+
+### 💬 [YouTube Comment Sentiment Analyzer](https://github.com/kritiikkaaa/youtube-comment-sentiment): Flask + NLP application that analyzes YouTube comments and predicts Positive, Negative or Neutral sentiment.
+
+---
+
+### 🏦 [Banking Management System](https://github.com/kritiikkaaa/Banking-Management-System): Python-based banking application supporting account creation, deposits, withdrawals and balance management.
+
+---
+
+### 🎮 [Number Guessing Game](https://github.com/kritiikkaaa/Number-Guessing-Game): A fun Python game where the player guesses a randomly generated number.
 
 ---
 
