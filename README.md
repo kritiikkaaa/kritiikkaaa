@@ -99,11 +99,11 @@ Collection of C++ solutions for various LeetCode problems.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kritiikkaa/">
+<a href="https://www.linkedin.com/in/kritikkaa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/kritiikkaa/">
+<a href="https://leetcode.com/u/kritikkaa/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
