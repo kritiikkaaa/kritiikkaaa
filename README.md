@@ -5,19 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀" />
 </p>
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 CSE Student passionate about **Software Development & Artificial Intelligence**
-- 🌱 Currently learning **Java Full Stack Development**
-- 💡 Interested in **Web Development, AI/ML, NLP & UI/UX**
-- 🚀 Love building projects that solve real-world problems
-- 💬 Ask me about **C++, Java, Python, HTML, CSS, JavaScript & Tailwind CSS**
-- ⚡ Fun Fact: I believe every bug teaches something new. 😄
-
----
-
 ## 🚀 Tech Stack
 
 <p align="center">
