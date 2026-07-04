@@ -38,11 +38,16 @@
 
 # 📌 Featured Projects
 
-### 🎓 Online Learning Management System: A responsive Learning Management System (LMS) built using HTML & Tailwind CSS featuring Login, Dashboard and Course pages.
-### 📰 Fake News Detection: Machine Learning project that classifies news articles as Real or Fake using NLP techniques.
-### 💬 YouTube Comment Sentiment Analyzer: Flask + NLP application that analyzes YouTube comments and predicts Positive, Negative or Neutral sentiment.
-### 🏦 Banking Management System: Python-based banking application supporting account creation, deposits, withdrawals and balance management.
-### 🎮 Number Guessing Game: Python console game demonstrating logic building and user interaction.
+### 🎓 Online Learning Management System
+A responsive Learning Management System (LMS) built using HTML & Tailwind CSS featuring Login, Dashboard and Course pages.
+### 📰 Fake News Detection: 
+Machine Learning project that classifies news articles as Real or Fake using NLP techniques.
+### 💬 YouTube Comment Sentiment Analyzer
+Flask + NLP application that analyzes YouTube comments and predicts Positive, Negative or Neutral sentiment.
+### 🏦 Banking Management System
+Python-based banking application supporting account creation, deposits, withdrawals and balance management.
+### 🎮 Number Guessing Game
+Python console game demonstrating logic building and user interaction.
 
 ---
 
