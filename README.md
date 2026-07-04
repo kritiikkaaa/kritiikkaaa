@@ -68,11 +68,8 @@ Python console game demonstrating logic building and user interaction.
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kritiikkaaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritiikkaaa&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kritiikkaaa&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritiikkaaa&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -90,22 +87,19 @@ Python console game demonstrating logic building and user interaction.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kritiikkaaa&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=kritiikkaaa&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kritiikkaa/">
+<a href="[https://www.linkedin.com/in/kritiikkaa/](https://www.linkedin.com/in/kritikkaa/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/u/kritiikkaa/">
+<a href="[https://leetcode.com/u/kritikkaa/](https://leetcode.com/u/kritikkaa/)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
