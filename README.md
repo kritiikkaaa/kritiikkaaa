@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Java Full Stack Development**
 - 💡 Interested in **Web Development, AI/ML, NLP & UI/UX**
 - 🚀 Love building projects that solve real-world problems
-- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript & Tailwind CSS**
+- 💬 Ask me about **C++, Java, Python, HTML, CSS, JavaScript & Tailwind CSS**
 - ⚡ Fun Fact: I believe every bug teaches something new. 😄
 
 ---
