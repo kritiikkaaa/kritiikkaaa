@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kritika</h1>
-
-<h3 align="center">
-💻 CSE Student • Full Stack Developer • AI/ML Enthusiast
-</h3>
+<h3 align="center">💻 CSE Student | Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀" />
 </p>
+
+---
 
 ---
 
@@ -85,18 +84,6 @@ Simple Python game demonstrating logical thinking and user interaction.
 ## 💻 [LeetCode Solutions](https://github.com/kritiikkaaa/Leetcode)
 
 Collection of C++ solutions for various LeetCode problems.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kritiikkaaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritiikkaaa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
