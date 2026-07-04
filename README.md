@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kritika</h1>
+<h1 align="center">Hey there!👋, I'm Kritika</h1>
 <h3 align="center">💻 CSE Student | Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
@@ -65,15 +65,6 @@ Python console game demonstrating logic building and user interaction.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritiikkaaa&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritiikkaaa&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -82,13 +73,6 @@ Python console game demonstrating logic building and user interaction.
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kritiikkaaa&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 ---
 
 # 🌐 Connect With Me
