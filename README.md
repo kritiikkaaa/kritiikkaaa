@@ -95,11 +95,11 @@ Python console game demonstrating logic building and user interaction.
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/in/kritiikkaa/](https://www.linkedin.com/in/kritikkaa/)">
+<a href="https://www.linkedin.com/in/kritikkaa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="[https://leetcode.com/u/kritikkaa/](https://leetcode.com/u/kritikkaa/)">
+<a href="https://leetcode.com/u/kritikkaa/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
