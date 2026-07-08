@@ -12,7 +12,7 @@
 # 👩‍💻 About Me
 
 - 🎓 CSE Student passionate about Software Development
-- 🌱 Currently learning Java Full Stack Development
+- 🌱 Currently learning Full Stack Development and Data Analysis
 - 🤖 Interested in AI, Machine Learning & NLP
 - 🚀 Love building real-world projects
 - 💡 Exploring new technologies every day
