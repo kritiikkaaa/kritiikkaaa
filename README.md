@@ -71,20 +71,24 @@ Collection of C++ solutions for various LeetCode problems.
 
 <p align="center">
 
-<a href="https://kritikkaa.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.linkedin.com/in/kritikkaa/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kritikkaa/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://leetcode.com/u/kritikkaa/" target="_blank">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://leetcode.com/u/kritikkaa/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://kritikkaa.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
----
+
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
