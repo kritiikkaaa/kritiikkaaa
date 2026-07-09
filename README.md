@@ -72,17 +72,25 @@ Collection of C++ solutions for various LeetCode problems.
 <p align="center">
 
 <a href="https://kritikkaa.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kritikkaa/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/kritikkaa/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kritiikkaaa&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kritiikkaaa/kritiikkaaa/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
