@@ -84,15 +84,6 @@ Collection of C++ solutions for various LeetCode problems.
 </a>
 
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kritiikkaaa&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kritiikkaaa/kritiikkaaa/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 ---
 
 <h3 align="center">
