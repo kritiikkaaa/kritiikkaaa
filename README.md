@@ -21,12 +21,10 @@
 
 # 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,tailwind,flask,mysql,git,github,vscode&perline=6"/>
-
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,tailwind,flask,mysql,git,github,vscode,figma&theme=dark"/>
+</a>
 </p>
 
 ---
