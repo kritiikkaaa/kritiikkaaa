@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;I+build.;I+break.;I+learn.;I+repeat." alt="Typing SVG" />
 </p>
+<p align="center">
 🌐 <b>Portfolio:</b> <a href="https://kritikkaa.vercel.app/">https://kritikkaa.vercel.app/</a>
-</p>
 
 ---
 
