@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kritika</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;How+does+this+work?🚀" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🌱 Currently learning Full Stack Development and Data Analysis
 - 🤖 Interested in AI, Machine Learning & NLP
 - 🚀 Love building real-world projects
-- 💡 Exploring new technologies every day
+- 💡 Not chasing perfection. Just chasing the next "How does this work?"
 
 ---
 
