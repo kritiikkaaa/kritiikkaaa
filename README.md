@@ -54,7 +54,7 @@ Simple Python game demonstrating logical thinking and user interaction.
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritiikkaaa&theme=tokyo-night&hide_border=true" />
+  <img src="https://ghchart.rshah.org/kritiikkaaa" alt="kritiikkaaa's Github chart" />
 </p>
 
 ---
