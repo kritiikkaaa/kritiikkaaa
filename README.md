@@ -50,10 +50,6 @@ Python-based banking application supporting account creation, deposits, withdraw
 
 Simple Python game demonstrating logical thinking and user interaction.
 
-## 💻 [LeetCode Solutions](https://github.com/kritiikkaaa/Leetcode)
-
-Collection of C++ solutions for various LeetCode problems.
-
 ---
 
 # 📈 Contribution Graph
