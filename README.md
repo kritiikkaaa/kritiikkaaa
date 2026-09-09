@@ -56,11 +56,12 @@ Simple Python game demonstrating logical thinking and user interaction.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kritiikkaaa&theme=github-compact&hide_border=true"
-    alt="Kritika's GitHub Activity Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritiikkaaa&theme=github_dark"
+    alt="Kritika's GitHub Contribution Graph"
     width="95%"
   />
 </p>
+
 ---
 
 ## 🔥 GitHub Streak
