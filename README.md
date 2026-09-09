@@ -52,9 +52,20 @@ Simple Python game demonstrating logical thinking and user interaction.
 
 ---
 
+---
+
 ## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/kritiikkaaa" alt="kritiikkaaa's Github chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritiikkaaa&theme=github-compact&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kritiikkaaa&theme=github-dark&hide_border=true" width="70%" />
 </p>
 
 ---
