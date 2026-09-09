@@ -52,8 +52,6 @@ Simple Python game demonstrating logical thinking and user interaction.
 
 ---
 
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
