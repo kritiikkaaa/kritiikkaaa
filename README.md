@@ -14,7 +14,7 @@
 - 🌱 Currently learning Full Stack Development and Data Analysis
 - 🤖 Interested in AI, Machine Learning & NLP
 - 🚀 Love building real-world projects
-- 💡 Not chasing perfection. Just chasing the next "How does this work?"
+- 💡 Not chasing perfection. Just chasing the next "How does this work?”
 
 ---
 
